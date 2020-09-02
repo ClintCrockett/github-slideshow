@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: “Welcome to our second slide!”
+title: “This is our second slide. Welcome!”
 ---
-Your test
-Use the left arrow to go back!
+My test
+I changed it
